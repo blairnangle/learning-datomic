@@ -35,3 +35,7 @@ TBC
 ### Squuids
 
 TBC
+
+## License
+
+Distributed under an [MIT License](./LICENSE).
